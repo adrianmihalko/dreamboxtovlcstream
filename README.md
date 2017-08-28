@@ -19,3 +19,7 @@ VLC addon files are copied to VLC’s directory depending upon the OS. It also d
  - In Windows: %APPDATA%\vlc\lua\extensions\
  - In Mac OS X:    /Users/%your_name%/Library/Application Support/org.videolan.vlc/lua/extensions/ 
  - In Linux:    ~/.local/share/vlc/lua/extensions/
+
+**Screenshot:**
+
+![Screenshot](screenshot.jpg?raw=true "Screenshot")
